@@ -1,0 +1,5 @@
+.header__container {
+  height: 90px;
+  background-color: #ffb8ca;
+  display: flex;
+}
